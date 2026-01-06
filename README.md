@@ -1,4 +1,5 @@
-<h1 align="center"> Hi there 👋, I'm Kevin Fagúndez</h1>
+<h1 align="center">Hey! 🥝 I'm Kevin Fagúndez</h1>
+<h3 align="center">Frontend Developer crafting fresh web experiences</h3>
 
 <a target="_blank" href="https://www.stefanosst.gr"><img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png"/></a>
 
