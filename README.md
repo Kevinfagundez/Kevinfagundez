@@ -7,9 +7,10 @@
 
 <p align="center">
   <a href="https://github.com/tu-usuario">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer+🥝;JavaScript+|+HTML+|+CSS;Building+Responsive+Interfaces;Always+Learning+New+Skills&center=true&width=450&height=50&color=11998e&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer+%F0%9F%9A%80;Frontend+%26+Backend;JavaScript+|+PHP+|+Node.js;Databases+%26+System+Logic;Building+Functional+Web+Solutions&center=true&width=500&height=50&color=11998e&vCenter=true&size=22">
   </a>
 </p>
+
 
 <pre>
 💻 Web Developer | Frontend & Backend
