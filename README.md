@@ -1,5 +1,5 @@
 <h1 align="center">Hey! 🥝 I'm Kevin Fagúndez</h1>
-<h3 align="center">Frontend Developer crafting fresh web experiences</h3>
+<h3 align="center">Web Developer crafting functional and user-centered web solutions</h3>
 
 <p align="center">
   <img src="banner.png" alt="Kevin Fagúndez Banner" width="100%"/>
